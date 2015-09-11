@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.42.3 clang-700.0.53.3)"
+options: "69a7d7a84404afd3e7c0a3f6d28f3ba7"
+inputs: 
+- "/Users/ken.wang/Work/Test/foreceTouch/foreceTouch/ViewController.swift"
+- "/Users/ken.wang/Work/Test/foreceTouch/foreceTouch/AppDelegate.swift"
