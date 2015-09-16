@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "fb492afe34f29561aa9c8ef259a2843f"
+inputs: 
+- !dirty "/Users/ken.wang/Work/Test/scenekit/scenekit/GameViewController.swift"
+- !dirty "/Users/ken.wang/Work/Test/scenekit/scenekit/AppDelegate.swift"
