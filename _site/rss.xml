@@ -5,13 +5,13 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
-    <title>Your New Jekyll Site</title>
-    <link>blog url</link>
-    <description>Blogging about stuffs</description>
+    <title>Ken Wang's Blog</title>
+    <link>kenwang.info</link>
+    <description>记录生活点滴、工作的心得</description>
     <pubDate>Wed, 16 Sep 2015 18:18:00 +0800</pubDate>
     <item>
       <title>博客首篇!</title>
-      <link>blog url/2015/09/16/welcome-to-jekyll.html</link>
+      <link>kenwang.info/2015/09/16/welcome-to-jekyll.html</link>
       <description>&lt;p&gt;一直想认真的写一下博客，记录工作和生活的点点滴滴，那就从这篇开始吧&lt;/p&gt;
 </description>
       <pubDate>Wed, 16 Sep 2015 18:18:00 +0800</pubDate>
