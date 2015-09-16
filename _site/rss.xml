@@ -8,7 +8,15 @@
     <title>Ken Wang's Blog</title>
     <link>kenwang.info</link>
     <description>记录生活点滴、工作的心得</description>
-    <pubDate>Wed, 16 Sep 2015 18:18:00 +0800</pubDate>
+    <pubDate>Wed, 16 Sep 2015 23:18:00 +0800</pubDate>
+    <item>
+      <title>过那些坑，创业者必备的产品开发知识</title>
+      <link>kenwang.info/2015/09/16/%E5%88%9B%E4%B8%9A%E8%80%85%E5%BF%85%E5%A4%87%E7%9A%84%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91%E7%9F%A5%E8%AF%86.html</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://dn-coding-net-production-pp.qbox.me/80850b36-2949-49f6-9f54-82134963c211.png&quot; alt=&quot;MacDown Screenshot&quot;&gt;&lt;/p&gt;
+</description>
+      <pubDate>Wed, 16 Sep 2015 23:18:00 +0800</pubDate>
+      <dc:date>2015-09-16T23:18:00+08:00</dc:date>
+    </item>
     <item>
       <title>博客首篇!</title>
       <link>kenwang.info/2015/09/16/welcome-to-jekyll.html</link>
@@ -17,6 +25,6 @@
       <pubDate>Wed, 16 Sep 2015 18:18:00 +0800</pubDate>
       <dc:date>2015-09-16T18:18:00+08:00</dc:date>
     </item>
-    <dc:date>2015-09-16T18:18:00+08:00</dc:date>
+    <dc:date>2015-09-16T23:18:00+08:00</dc:date>
   </channel>
 </rss>
